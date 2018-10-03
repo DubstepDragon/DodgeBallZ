@@ -1,0 +1,7 @@
+acceleration or decceleration after ball is thrown
+ball speed 
+bounciness
+hitbox
+gravity? bounce/roll on floor?
+
+
